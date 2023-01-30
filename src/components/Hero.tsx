@@ -1,4 +1,4 @@
-import hero from "./../assets/hero.webm";
+import hero from "./../assets/hero.mp4";
 
 export const Hero = () => {
   return (
